@@ -12,9 +12,9 @@
 #### There are three script files for the task (Code Challenge). 
 ###### TestCase_1N2.java file cover action number 1 and 2
 ###### TestCase_4.java file cover action number 3,4,5 and 
-###### TestCase_4.java file cover action number 3,4,5
+###### TestCase_6.java file cover action number 6,7,8
 
-#### The location of scripts file are given below:
+#### The location of script files are given below:
 
 ###### /src/MyPackage/TestCase_1N2.java 
 ###### /src/MyPackage/TestCase_4.java
